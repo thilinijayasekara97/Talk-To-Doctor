@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C1A1919</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#00cc00</color>
+    <color name="colorButton"> #008577</color>
+    <color name="botNav">#E4798E</color>
+    <color name="grey">#6E6B6D</color>
+    <color name="card">#FDDDE8</color>
+    <color name="default_back">#419099</color>
+    <color name="btncolor">#4EAE4D</color>
+    <color name="background">#349DCD</color>
+</resources>
